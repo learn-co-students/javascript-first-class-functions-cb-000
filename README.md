@@ -22,7 +22,7 @@ function Monday() {
   console.log('Go for a five-mile run');
   console.log('Pump iron');
 }
-
+/* this is an alteration */
 function Tuesday() {
   console.log('Go for a five-mile run');
   console.log('Swim 40 laps');
